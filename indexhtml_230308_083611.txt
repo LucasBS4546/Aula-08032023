@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title> Site feito no celular </title>
+      <meta charset="UTF-8">
+
+   </head>
+
+   <body>
+      <h1> Elementos textuais </h1>
+      <h2> Texto 2 </h2>
+      <h3> Texto 3 </h3>
+      <p> lorem, ipsum dolor... </p>
+
+      <hr>
+
+      <h1> Listas </h1>
+
+      <h3> Lista ordenada </h3>
+      <ol>
+         <li> Item 1 </li>
+         <li> Item 2 </li>
+         <li> Item 3 </li>
+      </ol>
+      <h3> Lista não ordenada </h3>
+      <ul>
+         <li> Item 1 </li>
+         <li> Item 2 </li>
+         <li> Item 3 </li>
+      </ul>
+
+      <hr>
+
+      <h1> Imagens </h1>
+
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0GbTPD1WG7nM4-UOnJb7XAfiYVx0S-Bkz7g&usqp=CAU" alt="Isso é uma foto de um sapo" > 
+   </body>
+</html>
